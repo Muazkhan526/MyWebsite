@@ -1,0 +1,16 @@
+#Icons{
+ margin-left: 90%;
+}
+.Icon{
+margin: 5px;
+}
+li:hover{
+    color: red;
+}
+#Footer{
+    text-align: left;
+    margin-left: 0px;
+    overflow: hidden;
+}
+h6{text-align: left;
+overflow: hidden;}

@@ -1,0 +1,28 @@
+#nav{
+    background-color:#333333;
+}
+#nav a:hover{
+background-color: red;
+}
+    
+ul i:hover{
+    color: red;
+}
+li {
+    list-style-type: none;
+}
+#navbarNavAltMarkup{
+    font-weight: bold;
+    margin: 20px;
+}
+.navbar-nav a{
+    color: white;    
+}
+a {
+    color: white;
+}
+.image{
+    margin-left: 30%;
+}#Searchbar{
+    margin-top: 1%;
+}
